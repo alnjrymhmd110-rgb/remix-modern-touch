@@ -1,0 +1,86 @@
+<svg viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 1. LEFT BLUE HOUSE (#041B4E) -->
+  <path
+    d="M 0 340 
+       C 0 325 10 310 25 295 
+       L 230 90 
+       C 242 78 258 78 270 90 
+       L 510 330 
+       L 510 780 
+       L 0 780 
+       Z"
+    fill="#041B4E"
+  />
+
+  <!-- WHITE 'M' - LEFT DIAGONAL ARM with rounded top cap -->
+  <path
+    d="M 0 520 
+       L 205 315 
+       C 222 298 252 308 254 332 
+       C 255 346 246 360 234 372 
+       L 50 556 
+       C 28 578 12 602 20 632 
+       C 28 658 50 670 80 664 
+       C 102 658 128 644 150 622 
+       L 248 520 
+       L 248 780 
+       L 0 780 
+       Z"
+    fill="#FFFFFF"
+  />
+
+  <!-- 2. RIGHT RED HOUSE (#E51E25) with bottom downward pointer -->
+  <path
+    d="M 385 340 
+       L 700 12 
+       C 712 0 732 0 744 12 
+       L 985 320 
+       C 995 330 1000 345 1000 360 
+       L 1000 760 
+       C 1000 775 985 785 965 785 
+       L 615 785 
+       L 385 1000 
+       L 385 340 
+       Z"
+    fill="#E51E25"
+  />
+
+  <!-- WHITE 'M' - RIGHT DIAGONAL ARM (crosses into Red House with rounded cap) -->
+  <path
+    d="M 248 780 
+       L 248 520 
+       L 446 320 
+       C 464 302 494 312 496 336 
+       C 498 352 488 368 474 380 
+       L 385 465 
+       L 385 780 
+       Z"
+    fill="#FFFFFF"
+  />
+
+  <!-- WHITE 'T' - Horizontal bar + Vertical stem + Architectural concave arch -->
+  <path
+    d="M 556 338 
+       L 910 338 
+       L 910 498 
+       C 870 498 828 470 788 420 
+       C 784 414 782 408 782 400 
+       L 782 785 
+       L 670 785 
+       L 670 498 
+       L 556 498 
+       Z"
+    fill="#FFFFFF"
+  />
+
+  <!-- 4-POINT STAR / SPARKLE inside Red house -->
+  <path
+    d="M 505 560 
+       Q 505 665 590 665 
+       Q 505 665 505 770 
+       Q 505 665 420 665 
+       Q 505 665 505 560 
+       Z"
+    fill="#FFFFFF"
+  />
+</svg>
